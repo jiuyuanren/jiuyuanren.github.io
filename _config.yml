@@ -1,0 +1,38 @@
+timezone: Asia/Shanghai
+lang: zh_CN
+
+title: 九院人导航
+alias_en: Jiuyuan.ren
+alias_cn: 九院人导航
+# description: A Navigation Website for BYR
+keywords: 九院人导航, jiuyuan.ren, JYR, caep, Navi, Navigation
+url: http://jiuyuanren.coding.me
+established_at: "2019-10-01T00:00+08:00"
+
+author: xlindo
+author_url: http://xlindo.com
+# organization: xlindo
+# organization_url: https://teelab.net
+contact: hi[at]xlindo[dot]com
+
+image: /images/logo.png
+logo: /images/logo.png
+# image: /images/avatar.gif
+# logo: /images/avatar.gif
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
