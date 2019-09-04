@@ -85,7 +85,7 @@
     - name: 贴吧-中国工程物理研究院
       icon: paw blue
       style: basic
-      url: http://tieba.baidu.com/
+      url: http://tieba.baidu.com/f?ie=utf-8&kw=中国工程物理研究院
 
     - name: 科学城医院
       style: basic
