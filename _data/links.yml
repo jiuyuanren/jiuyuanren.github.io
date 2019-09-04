@@ -154,6 +154,7 @@
     links:    
     - name: 天猫
       style: red
+      icon: cat
       url: https://www.tmall.com/
 
     - name: 淘宝
@@ -162,6 +163,7 @@
 
     - name: 京东
       style: red
+      icon: dog
       url: https://www.jd.com/
 
     - name: Amazon
@@ -229,6 +231,11 @@
       style: basic
       url: http://www.kuaidi100.com/
 
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.cn/
+
     - name: 大众点评
       icon: utensils orange
       style: basic
@@ -240,23 +247,14 @@
       url: http://email.163.com/
 
     - name: QQ邮箱
-      icon: qq black
+      icon: mail orange
       style: basic
       url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      style: basic
-      url: https://mail.sina.com.cn/
 
     - name: Gmail
       icon: google red
       style: basic
       url: https://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.com/
 
     - name: 百度翻译
       icon: paw blue
@@ -377,23 +375,28 @@
   - name: 娱乐
     links:
     - name: 优酷
-      style: basic
+      style: basic blue
+      icon: video
       url: https://youku.com/
 
     - name: 爱奇艺
       style: green
+      icon: video
       url: https://iqiyi.com/
 
     - name: 芒果
       style: yellow
+      icon: video
       url: http://mgtv.com/
 
     - name: 腾讯视频
       style: basic
+      icon: video
       url: https://v.qq.com/
 
     - name: 哔哩哔哩
       style: pink
+      icon: video
       url: https://bilibili.com/
 
     - name: 腾讯动漫
