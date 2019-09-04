@@ -1,18 +1,5 @@
 // home.js
 
-// GitHub
-function updateGitHub(repository) {
-    $('#github-watch img').attr('src', `https://img.shields.io/github/watchers/${repository}.svg?style=social&label=Watch`);
-    $('#github-star img').attr('src', `https://img.shields.io/github/stars/${repository}.svg?style=social&label=Star`);
-    $('#github-fork img').attr('src', `https://img.shields.io/github/forks/${repository}.svg?style=social&label=Fork`);
-};
-var repository = $('meta[name=repository]').attr('content');
-updateGitHub(repository);
-setInterval(function () {
-    if (!document.hidden) {
-        updateGitHub(repository);
-    };
-}, 60000);
 
 // version
 dayjs.locale('zh-cn');
