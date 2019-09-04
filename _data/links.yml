@@ -221,25 +221,10 @@
 
   - name: 工具
     links:
-    - name: '12306'
-      icon: train red
+    - name: caep邮箱
+      icon: envelope blue
       style: basic
-      url: http://www.12306.cn/
-
-    - name: 快递查询
-      icon: truck olive
-      style: basic
-      url: http://www.kuaidi100.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.cn/
-
-    - name: 大众点评
-      icon: utensils orange
-      style: basic
-      url: http://www.dianping.com/
+      url: http://mail.caep.cn/
 
     - name: 网易邮箱
       icon: envelope red
@@ -255,6 +240,26 @@
       icon: google red
       style: basic
       url: https://mail.google.com/
+
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 快递查询
+      icon: truck olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: http://www.dianping.com/
+      
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.cn/
 
     - name: 百度翻译
       icon: paw blue
