@@ -59,7 +59,8 @@
 
 .ui.footer.segment {
     /* padding: 5em 0em; */
-    margin-bottom: -50px;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 .ui.borderless.inverted.menu {
