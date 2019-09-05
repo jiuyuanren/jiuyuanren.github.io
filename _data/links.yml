@@ -45,8 +45,6 @@
       style: basic
       url: http://www.caepit.com/gxymain/gxy/index.htm
 
- 
-
     - name: 招投标信息
       style: basic
       url: http://ztbxx.caep.cn/
@@ -190,6 +188,11 @@
       icon: weibo red
       style: basic
       url: https://weibo.com/jiuyuanren
+
+    - name: 九院人导航-反馈
+      icon: paper plane red
+      style: gray
+      url: https://wj.qq.com/s2/4452257/6ece/
 
 
 - categories:
