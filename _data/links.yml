@@ -146,6 +146,11 @@
 
   - name: 九院资讯
     links:
+    - name: 第七届科博会 2019年9月5日~8日
+      icon: bullhorn 
+      style: yellow
+      url: http://kbh.my.gov.cn/
+
     - name: 中国工程物理研究院
       icon: weixin green
       style: basic
@@ -155,6 +160,11 @@
       icon: weixin green
       style: basic
       url: https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E7%89%A9%E9%99%A2&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=1396&sst0=1567669936209&lkt=1%2C1567669936083%2C1567669936083
+
+    - name: 中物院曙光视点
+      icon: weixin green
+      style: basic
+      url: http://mp.weixin.qq.com/profile?src=3&timestamp=1567671409&ver=1&signature=xDao1dtfiGa55MzaMachtWO0L5e9r8w33FPYcT0AmbmtkQKWTU5Q7jaUQ7BN1PgKTuNLfoUy85ucrWUnDOOnfw==
     
     - name: 中国工程物理研究院
       icon: weibo red
