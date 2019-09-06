@@ -145,15 +145,15 @@
   - name: 九院资讯
     links:
 
-    - name: 我院28项科技成果亮相第七届科博会
-      icon: bullhorn 
-      style: red
-      url: http://jiuyuan.ren
-
     - name: 第七届科博会 2019年9月5日~8日
       icon: bullhorn 
       style: yellow
       url: http://kbh.my.gov.cn/
+
+    - name: 我院28项科技成果亮相第七届科博会
+      icon: bullhorn 
+      style: basic red
+      url: http://jiuyuan.ren
 
     - name: 中国工程物理研究院
       icon: weixin green
@@ -182,7 +182,7 @@
 
     - name: 九院人导航
       icon: weibo 
-      style: red
+      style: basic red
       url: https://www.weibo.com/u/7300265356
 
     - name: 绵阳九院人
@@ -262,8 +262,8 @@
   - name: 学习
     links:
     - name: 谷歌学术
-      icon: graduation cap red
-      style: basic
+      icon: graduation cap
+      style: basic red
       url: https://scholar.google.cn
 
     - name: Sci-Hub
@@ -276,11 +276,11 @@
       url: https://xueshu.baidu.com
 
     - name: 小木虫
-      style: basic
+      style: basic blue
       url: http://muchong.com/bbs/
 
     - name: 经管之家
-      style: basic
+      style: basic orange
       url: https://bbs.pinggu.org/
 
     - name: 知网
@@ -297,11 +297,11 @@
       url: https://stackoverflow.com/
 
     - name: CSDN
-      style: basic
+      style: basic red
       url: https://edu.csdn.net/
-      
+
     - name: Coursera
-      style: basic
+      style: basic blue
       url: https://www.coursera.org/
 
     - name: MOOC
@@ -317,7 +317,7 @@
       url: http://www.w3school.com.cn/
 
     - name: SegmentFault
-      style: basic
+      style: basic green
       url: http://segmentfault.com/
 
     - name: Tutorials Point
@@ -332,8 +332,8 @@
   - name: 社交
     links:
     - name: 微博
-      icon: weibo red
-      style: basic
+      icon: weibo
+      style: basic red
       url: https://weibo.com/
 
     - name: 微信网页版
@@ -347,18 +347,18 @@
       url: https://tieba.baidu.com/
 
     - name: 知乎
-      icon: zhihu blue
-      style: basic
+      icon: zhihu
+      style: basic blue
       url: https://www.zhihu.com/
 
     - name: Quora
-      icon: quora red
-      style: basic
+      icon: quora
+      style: basic red
       url: https://www.quora.com/
 
     - name: GitHub
-      icon: github black
-      style: basic
+      icon: github
+      style: basic black
       url: https://github.com/
 
     - name: Facebook
@@ -394,22 +394,22 @@
       url: https://youku.com/
 
     - name: 爱奇艺
-      style: green
+      style: basic green
       icon: video
       url: https://iqiyi.com/
 
     - name: 芒果
-      style: yellow
+      style: basic yellow
       icon: video
       url: http://mgtv.com/
 
     - name: 腾讯视频
-      style: basic
+      style: basic yellow
       icon: video
       url: https://v.qq.com/
 
     - name: 哔哩哔哩
-      style: pink
+      style: basic pink
       icon: video
       url: https://bilibili.com/
 
@@ -418,7 +418,7 @@
       url: https://ac.qq.com/
 
     - name: 虾米
-      style: orange
+      style: basic orange
       url: https://xiami.com/
 
     - name: 豆瓣电影
@@ -427,12 +427,12 @@
       url: https://movie.douban.com/
 
     - name: Youtube
-      icon: youtube red
-      style: basic
+      icon: youtube 
+      style: basic red
       url: https://youtube.com/
 
     - name: FIX
-      style: yellow
+      style: basic yellow
       url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
 
     - name: 人人
@@ -448,22 +448,22 @@
       url: http://www.hysub.net/
 
     - name: 斗鱼
-      style: orange
+      style: basic orange
       url: https://douyu.com/
 
   - name: 购物
     links:    
     - name: 天猫
-      style: red
+      style: basic red
       icon: cat
       url: https://www.tmall.com/
 
     - name: 淘宝
-      style: orange
+      style: basic orange
       url: https://www.taobao.com/
 
     - name: 京东
-      style: red
+      style: basic red
       icon: dog
       url: https://www.jd.com/
 
@@ -493,7 +493,7 @@
       url: http://www.muji.com.cn/
 
     - name: IKEA
-      style: yellow
+      style: basic yellow
       url: https://www.ikea.cn/
 
     - name: Decathlon
@@ -509,11 +509,11 @@
       url: http://www.smartisan.com/
 
     - name: 大疆
-      style: black
+      style: basic black
       url: https://www.dji.com/
 
     - name: 小米
-      style: orange
+      style: basic orange
       url: https://www.mi.com/
 
     - name: 有品
