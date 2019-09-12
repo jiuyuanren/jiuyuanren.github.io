@@ -145,15 +145,10 @@
   - name: 九院资讯
     links:
 
-    - name: 第七届科博会 2019年9月5日~8日
+    - name: 2020届招聘进行时
       icon: bullhorn 
       style: yellow
-      url: http://kbh.my.gov.cn/
-
-    - name: 我院28项科技成果亮相第七届科博会
-      icon: bullhorn 
-      style: basic red
-      url: http://jiuyuan.ren
+      url: http://zpxx.caep.cn/
 
     - name: 中国工程物理研究院
       icon: weixin green
