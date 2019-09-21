@@ -273,7 +273,7 @@
       style: basic red
       url: https://scholar.google.cn
 
-    - name: WolframCloud
+    - name: WolframAlpha
       icon: cloud
       style: basic red
       url: https://www.wolframalpha.com
