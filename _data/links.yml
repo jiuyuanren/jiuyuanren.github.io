@@ -254,6 +254,18 @@
       style: basic
       url: https://www.tianyancha.com/
 
+    - name: Azure Notebook
+      style: basic blue
+      url: https://notebooks.azure.com/
+
+    - name: Colab
+      style: basic yellow
+      url: https://colab.research.google.com
+
+    - name: SymPy Live
+      style: basic green
+      url: https://live.sympy.org/
+
   - name: 学习
     links:
     - name: 谷歌学术
@@ -261,7 +273,13 @@
       style: basic red
       url: https://scholar.google.cn
 
+    - name: WolframCloud
+      icon: cloud
+      style: basic red
+      url: https://www.wolframalpha.com
+
     - name: Sci-Hub
+      icon: book
       style: basic
       url: https://sci-hub.tw/
 
